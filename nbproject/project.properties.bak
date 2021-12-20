@@ -1,0 +1,203 @@
+annotation.processing.enabled=true
+annotation.processing.enabled.in.editor=false
+annotation.processing.processor.options=
+annotation.processing.processors.list=
+annotation.processing.run.all.processors=true
+annotation.processing.source.output=${build.generated.sources.dir}/ap-source-output
+build.classes.dir=${build.dir}/classes
+build.classes.excludes=**/*.java,**/*.form
+# This directory is removed when the project is cleaned:
+build.dir=build
+build.generated.dir=${build.dir}/generated
+build.generated.sources.dir=${build.dir}/generated-sources
+# Only compile against the classpath explicitly listed here:
+build.sysclasspath=ignore
+build.test.classes.dir=${build.dir}/test/classes
+build.test.results.dir=${build.dir}/test/results
+# Uncomment to specify the preferred debugger connection transport:
+#debug.transport=dt_socket
+debug.classpath=\
+    ${run.classpath}
+debug.modulepath=\
+    ${run.modulepath}
+debug.test.classpath=\
+    ${run.test.classpath}
+debug.test.modulepath=\
+    ${run.test.modulepath}
+# Files in build.classes.dir which should be excluded from distribution jar
+dist.archive.excludes=
+# This directory is removed when the project is cleaned:
+dist.dir=dist
+dist.jar=${dist.dir}/HouseRentalSystem.jar
+dist.javadoc.dir=${dist.dir}/javadoc
+dist.jlink.dir=${dist.dir}/jlink
+dist.jlink.output=${dist.jlink.dir}/HouseRentalSystem
+excludes=
+file.reference.AbsoluteLayout.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\AbsoluteLayout.jar
+file.reference.AbsoluteLayout.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\AbsoluteLayout.jar
+file.reference.activation.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\activation.jar
+file.reference.activation.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\activation.jar
+file.reference.AnimatonClass.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\AnimatonClass.jar
+file.reference.AnimatonClass.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\AnimatonClass.jar
+file.reference.apache-log4j-1.2.15.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\apache-log4j-1.2.15.jar
+file.reference.apache-log4j-1.2.15.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\apache-log4j-1.2.15.jar
+file.reference.db4o-8.0.184.15484-all-java5.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\db4o-8.0.184.15484-all-java5.jar
+file.reference.db4o-8.0.184.15484-all-java5.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\db4o-8.0.184.15484-all-java5.jar
+file.reference.jcommon-1.0.0.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\jcommon-1.0.0.jar
+file.reference.jcommon-1.0.0.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\jcommon-1.0.0.jar
+file.reference.jcommon-1.0.23.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\jcommon-1.0.23.jar
+file.reference.jcommon-1.0.23.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\jcommon-1.0.23.jar
+file.reference.jfreechart-1.0.1.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\jfreechart-1.0.1.jar
+file.reference.jfreechart-1.0.1.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\jfreechart-1.0.1.jar
+file.reference.jfreechart-1.0.19.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\jfreechart-1.0.19.jar
+file.reference.jfreechart-1.0.19.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\jfreechart-1.0.19.jar
+file.reference.jfreechart-1.0.9-swt.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\jfreechart-1.0.9-swt.jar
+file.reference.jfreechart-1.0.9-swt.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\jfreechart-1.0.9-swt.jar
+file.reference.jfreechart-experimental-1.0.9.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\jfreechart-experimental-1.0.9.jar
+file.reference.jfreechart-experimental-1.0.9.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\jfreechart-experimental-1.0.9.jar
+file.reference.json4processing.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\json4processing.jar
+file.reference.json4processing.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\json4processing.jar
+file.reference.jxbrowser-7.20.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\lib\\jxbrowser-7.20.jar
+file.reference.jxbrowser-7.20.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\lib\\jxbrowser-7.20.jar
+file.reference.jxbrowser-javafx-7.20.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\lib\\jxbrowser-javafx-7.20.jar
+file.reference.jxbrowser-javafx-7.20.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\lib\\jxbrowser-javafx-7.20.jar
+file.reference.jxbrowser-linux64-7.20.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\lib\\jxbrowser-linux64-7.20.jar
+file.reference.jxbrowser-linux64-7.20.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\lib\\jxbrowser-linux64-7.20.jar
+file.reference.jxbrowser-linux64-arm-7.20.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\lib\\jxbrowser-linux64-arm-7.20.jar
+file.reference.jxbrowser-linux64-arm-7.20.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\lib\\jxbrowser-linux64-arm-7.20.jar
+file.reference.jxbrowser-mac-7.20.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\lib\\jxbrowser-mac-7.20.jar
+file.reference.jxbrowser-mac-7.20.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\lib\\jxbrowser-mac-7.20.jar
+file.reference.jxbrowser-mac-arm-7.20.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\lib\\jxbrowser-mac-arm-7.20.jar
+file.reference.jxbrowser-mac-arm-7.20.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\lib\\jxbrowser-mac-arm-7.20.jar
+file.reference.jxbrowser-swing-7.20.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\lib\\jxbrowser-swing-7.20.jar
+file.reference.jxbrowser-swing-7.20.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\lib\\jxbrowser-swing-7.20.jar
+file.reference.jxbrowser-swt-7.20.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\lib\\jxbrowser-swt-7.20.jar
+file.reference.jxbrowser-swt-7.20.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\lib\\jxbrowser-swt-7.20.jar
+file.reference.jxbrowser-win32-7.20.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\lib\\jxbrowser-win32-7.20.jar
+file.reference.jxbrowser-win32-7.20.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\lib\\jxbrowser-win32-7.20.jar
+file.reference.jxbrowser-win64-7.20.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\lib\\jxbrowser-win64-7.20.jar
+file.reference.jxbrowser-win64-7.20.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\lib\\jxbrowser-win64-7.20.jar
+file.reference.mail.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\mail.jar
+<<<<<<< HEAD
+file.reference.mail.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\mail.jar
+=======
+file.reference.smtp-1.4.4.jar=..\\..\\AED final project\\jar files required\\smtp-1.4.4.jar
+>>>>>>> d1521b8e79642be1b6f0f7f0f84dbaf3964ec77a
+file.reference.twilio-java-sdk-5.5.1-jar-with-dependencies.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\twilio-java-sdk-5.5.1-jar-with-dependencies.jar
+file.reference.twilio-java-sdk-5.5.1-jar-with-dependencies.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\twilio-java-sdk-5.5.1-jar-with-dependencies.jar
+file.reference.Unfolding.jar=C:\\Users\\Kiran\\Desktop\\AED final project\\jar files required\\Unfolding.jar
+file.reference.Unfolding.jar-1=..\\..\\..\\Downloads\\jar files required\\jar files required\\Unfolding.jar
+includes=**
+jar.compress=false
+javac.classpath=\
+    ${file.reference.jxbrowser-7.20.jar}:\
+    ${file.reference.jxbrowser-javafx-7.20.jar}:\
+    ${file.reference.jxbrowser-linux64-7.20.jar}:\
+    ${file.reference.jxbrowser-linux64-arm-7.20.jar}:\
+    ${file.reference.jxbrowser-mac-7.20.jar}:\
+    ${file.reference.jxbrowser-mac-arm-7.20.jar}:\
+    ${file.reference.jxbrowser-swing-7.20.jar}:\
+    ${file.reference.jxbrowser-swt-7.20.jar}:\
+    ${file.reference.jxbrowser-win32-7.20.jar}:\
+    ${file.reference.jxbrowser-win64-7.20.jar}:\
+    ${file.reference.AbsoluteLayout.jar}:\
+    ${file.reference.AnimatonClass.jar}:\
+    ${file.reference.Unfolding.jar}:\
+    ${file.reference.activation.jar}:\
+    ${file.reference.apache-log4j-1.2.15.jar}:\
+    ${file.reference.db4o-8.0.184.15484-all-java5.jar}:\
+    ${file.reference.jcommon-1.0.0.jar}:\
+    ${file.reference.jcommon-1.0.23.jar}:\
+    ${file.reference.jfreechart-1.0.1.jar}:\
+    ${file.reference.jfreechart-1.0.19.jar}:\
+    ${file.reference.jfreechart-1.0.9-swt.jar}:\
+    ${file.reference.jfreechart-experimental-1.0.9.jar}:\
+    ${file.reference.json4processing.jar}:\
+    ${file.reference.mail.jar}:\
+    ${file.reference.twilio-java-sdk-5.5.1-jar-with-dependencies.jar}:\
+<<<<<<< HEAD
+    ${file.reference.jxbrowser-7.20.jar-1}:\
+    ${file.reference.jxbrowser-javafx-7.20.jar-1}:\
+    ${file.reference.jxbrowser-linux64-7.20.jar-1}:\
+    ${file.reference.jxbrowser-linux64-arm-7.20.jar-1}:\
+    ${file.reference.jxbrowser-mac-7.20.jar-1}:\
+    ${file.reference.jxbrowser-mac-arm-7.20.jar-1}:\
+    ${file.reference.jxbrowser-swing-7.20.jar-1}:\
+    ${file.reference.jxbrowser-swt-7.20.jar-1}:\
+    ${file.reference.jxbrowser-win32-7.20.jar-1}:\
+    ${file.reference.jxbrowser-win64-7.20.jar-1}:\
+    ${file.reference.AbsoluteLayout.jar-1}:\
+    ${file.reference.AnimatonClass.jar-1}:\
+    ${file.reference.Unfolding.jar-1}:\
+    ${file.reference.activation.jar-1}:\
+    ${file.reference.apache-log4j-1.2.15.jar-1}:\
+    ${file.reference.db4o-8.0.184.15484-all-java5.jar-1}:\
+    ${file.reference.jcommon-1.0.0.jar-1}:\
+    ${file.reference.jcommon-1.0.23.jar-1}:\
+    ${file.reference.jfreechart-1.0.1.jar-1}:\
+    ${file.reference.jfreechart-1.0.19.jar-1}:\
+    ${file.reference.jfreechart-1.0.9-swt.jar-1}:\
+    ${file.reference.jfreechart-experimental-1.0.9.jar-1}:\
+    ${file.reference.json4processing.jar-1}:\
+    ${file.reference.mail.jar-1}:\
+    ${file.reference.twilio-java-sdk-5.5.1-jar-with-dependencies.jar-1}
+=======
+    ${file.reference.smtp-1.4.4.jar}
+>>>>>>> d1521b8e79642be1b6f0f7f0f84dbaf3964ec77a
+# Space-separated list of extra javac options
+javac.compilerargs=
+javac.deprecation=false
+javac.external.vm=true
+javac.modulepath=
+javac.processormodulepath=
+javac.processorpath=\
+    ${javac.classpath}
+javac.source=1.8
+javac.target=1.8
+javac.test.classpath=\
+    ${javac.classpath}:\
+    ${build.classes.dir}
+javac.test.modulepath=\
+    ${javac.modulepath}
+javac.test.processorpath=\
+    ${javac.test.classpath}
+javadoc.additionalparam=
+javadoc.author=false
+javadoc.encoding=${source.encoding}
+javadoc.html5=false
+javadoc.noindex=false
+javadoc.nonavbar=false
+javadoc.notree=false
+javadoc.private=false
+javadoc.splitindex=true
+javadoc.use=true
+javadoc.version=false
+javadoc.windowtitle=
+# The jlink additional root modules to resolve
+jlink.additionalmodules=
+# The jlink additional command line parameters
+jlink.additionalparam=
+jlink.launcher=true
+jlink.launcher.name=HouseRentalSystem
+main.class=houserentalsystem.HouseRentalSystem
+manifest.file=manifest.mf
+meta.inf.dir=${src.dir}/META-INF
+mkdist.disabled=false
+platform.active=default_platform
+run.classpath=\
+    ${javac.classpath}:\
+    ${build.classes.dir}
+# Space-separated list of JVM arguments used when running the project.
+# You may also define separate properties like run-sys-prop.name=value instead of -Dname=value.
+# To set system properties for unit tests define test-sys-prop.name=value:
+run.jvmargs=
+run.modulepath=\
+    ${javac.modulepath}
+run.test.classpath=\
+    ${javac.test.classpath}:\
+    ${build.test.classes.dir}
+run.test.modulepath=\
+    ${javac.test.modulepath}
+source.encoding=UTF-8
+src.dir=src
+test.src.dir=test
